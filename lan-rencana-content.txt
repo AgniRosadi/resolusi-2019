@@ -3,4 +3,5 @@ RENCANA KONTEN LA
 - pelajari javascript
  function
  framework
+- android studio 
 - pelajari android hybrid
